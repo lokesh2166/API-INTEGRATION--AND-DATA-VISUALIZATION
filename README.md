@@ -42,3 +42,4 @@ Conclusion
 This project demonstrates how to fetch data from a public API (OpenWeatherMap), process it, and create meaningful visualizations using Python. By leveraging Matplotlib, Seaborn, Pandas, and Streamlit, we can present data in an intuitive and visually appealing way. This approach can be extended to various other APIs, making it a versatile method for real-world data analysis and visualization.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/e569918f-fa00-47be-8a6c-0d91e1c8f8c1)
